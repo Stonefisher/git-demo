@@ -17,7 +17,8 @@ int main()
 	   int len = strlen(date);
 	   date[len-1] = 0;
 	   printf("\r%s",date);
-	   Sleep(500);
+	   Sleep(15);
 	}
+	cout << "15Ãë½áÊø" << endl;
 	return 0;
  }
