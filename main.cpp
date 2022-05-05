@@ -19,7 +19,8 @@ int main()
 	   printf("\r%s",date);
 	   Sleep(15);
 	}
-	cout << "15秒结束" << endl;
+	cout << "15秒结束" << endl;cout<<"master test"<<endl;
 	cout << "第三次修改" << endl;
+	
 	return 0;
  }
