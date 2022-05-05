@@ -20,6 +20,6 @@ int main()
 	   Sleep(15);
 	}
 	cout << "15秒结束" << endl;
-	cout << "第三次修改" << endl;
+	cout << "第三次修改" << endl;cout<<"hot-fix test"<<endl;
 	return 0;
  }
