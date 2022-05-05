@@ -20,8 +20,9 @@ int main()
 	   Sleep(15);
 	}
 
-	cout << "15Ãë½áÊø" << endl;cout<<"master test"<<endl;
-	cout << "µÚÈý´ÎÐÞ¸Ä" << endl;cout<<"hot-fix test"<<endl;
+	cout << "15ÃƒÃ«Â½Ã¡ÃŠÃ¸" << endl;cout<<"master test"<<endl;
+	cout << "ÂµÃšÃˆÃ½Â´ÃŽÃÃžÂ¸Ã„" << endl;cout<<"hot-fix test"<<endl;
+	cout<< "æˆ‘åœ¨githubæ”¹äº†ä¸€ä¸‹<<endl;	
 
 	return 0;
  }
